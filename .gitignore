@@ -1,0 +1,4 @@
+datasource/*
+!datasource/.gitkeep
+output/*
+!output/.gitkeep
